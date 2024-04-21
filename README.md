@@ -605,3 +605,4 @@ Profile Page Screenshot
 ![Profile Screen Screenshot](/ProfileScreen.jpg)
 
 Brief Demonstartion of the App
+[Brief Demonstartion of the App](/Brief_Demonstration_of_the_App.mp4)
