@@ -586,4 +586,22 @@ const styles = StyleSheet.create({
 export default ProfileScreen;
 ```
 
-#Landing Page Screenshot
+Landing Page Screenshot
+![Landing Screen Screenshot](/LandingScreen.jpg)
+
+Home Page Screenshot
+![Home Screen Screenshot](/HomeScreen.jpg)
+
+Experience Page Screenshot
+![Experience Details Screen Screenshot](/ExperienceDetailsScreen.jpg)
+
+Booking Page Screenshot
+![Booking Screen Screenshot](/BookingScreen.jpg)
+
+Confirmation Page Screenshot
+![Confirmation Screen Screenshot](/ConfirmationScreen.jpg)
+
+Profile Page Screenshot
+![Profile Screen Screenshot](/ProfileScreen.jpg)
+
+Brief Demonstartion of the App
